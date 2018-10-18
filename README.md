@@ -49,5 +49,5 @@ Here, *499* is the mini-league ID.
 
 If you want to check how many pages your mini-league has, uncomment the sections marked in the code. 
 
-**Be aware that while you can use this code for all mini-leagues, using this on the overall mini-league which has many pages will take a LOT of time to fetch the data. Do not exceed the number of pages by 8 or 10**
+**Be aware that while you can use this code for all mini-leagues, using this on the overall league or a large league which has many pages will take a LOT of time to fetch the data. Do not exceed the number of pages by 8 or 10**
 
